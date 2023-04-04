@@ -16,6 +16,13 @@ namespace Curso
             resultado = num1 / num2;
             return resultado;
         }
+        void primerMetodo()
+        {
+            numero1 = 10;
+            numero2 = 5;
+            
+            Console.WriteLine(numero1 + numero2);
+        }
     }
 }
 
